@@ -1,0 +1,10 @@
+insert into Reservations (user_id, book_id, reservation_date) values (1, 3, '2022-04-06');
+insert into Reservations (user_id, book_id, reservation_date) values (8, 8, '2022-07-31');
+insert into Reservations (user_id, book_id, reservation_date) values (3, 5, '2022-11-07');
+insert into Reservations (user_id, book_id, reservation_date) values (6, 6, '2022-04-20');
+insert into Reservations (user_id, book_id, reservation_date) values (4, 4, '2022-06-21');
+insert into Reservations (user_id, book_id, reservation_date) values (7, 5, '2022-12-09');
+insert into Reservations (user_id, book_id, reservation_date) values (4, 1, '2022-11-07');
+insert into Reservations (user_id, book_id, reservation_date) values (8, 1, '2023-01-18');
+insert into Reservations (user_id, book_id, reservation_date) values (2, 9, '2023-01-27');
+insert into Reservations (user_id, book_id, reservation_date) values (4, 8, '2022-08-29');

@@ -1,0 +1,10 @@
+insert into Librarians (full_name, phone, email) values ('Chrissy Woodfin', '6226030859', 'cwoodfin0@xinhuanet.com');
+insert into Librarians (full_name, phone, email) values ('Dav Rustich', '9484991536', 'drustich1@simplemachines.org');
+insert into Librarians (full_name, phone, email) values ('Janith Depper', '2182118511', 'jdepper2@myspace.com');
+insert into Librarians (full_name, phone, email) values ('Garey Domone', '6031378784', 'gdomone3@epa.gov');
+insert into Librarians (full_name, phone, email) values ('Rad Roizin', '8851396947', 'rroizin4@domainmarket.com');
+insert into Librarians (full_name, phone, email) values ('Lauren Tortoise', '9044394564', 'ltortoise5@businessweek.com');
+insert into Librarians (full_name, phone, email) values ('Jemie Fiske', '2632864285', 'jfiske6@cafepress.com');
+insert into Librarians (full_name, phone, email) values ('Bronny Perfect', '7424163655', 'bperfect7@google.com');
+insert into Librarians (full_name, phone, email) values ('Meredith Sibbert', '9125178524', 'msibbert8@kickstarter.com');
+insert into Librarians (full_name, phone, email) values ('Thomas Glenfield', '5421942874', 'tglenfield9@elpais.com');

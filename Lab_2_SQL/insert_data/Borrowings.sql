@@ -1,0 +1,10 @@
+insert into Borrowings (user_id, book_id, borrow_date, return_date) values (1, 1, '2022-11-28', '2024-11-15');
+insert into Borrowings (user_id, book_id, borrow_date, return_date) values (2, 2, '2023-01-07', '2024-12-20');
+insert into Borrowings (user_id, book_id, borrow_date, return_date) values (3, 3, '2022-05-26', '2024-06-24');
+insert into Borrowings (user_id, book_id, borrow_date, return_date) values (4, 4, '2022-09-11', '2024-11-02');
+insert into Borrowings (user_id, book_id, borrow_date, return_date) values (5, 5, '2022-05-26', '2024-11-23');
+insert into Borrowings (user_id, book_id, borrow_date, return_date) values (6, 6, '2022-12-29', '2024-04-16');
+insert into Borrowings (user_id, book_id, borrow_date, return_date) values (7, 7, '2022-10-05', '2024-09-06');
+insert into Borrowings (user_id, book_id, borrow_date, return_date) values (8, 8, '2022-10-22', '2024-09-24');
+insert into Borrowings (user_id, book_id, borrow_date, return_date) values (9, 9, '2022-09-24', '2024-07-05');
+insert into Borrowings (user_id, book_id, borrow_date, return_date) values (10, 10, '2023-01-23', '2024-03-26');

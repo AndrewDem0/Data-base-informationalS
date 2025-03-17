@@ -1,0 +1,10 @@
+insert into books (title, author, published_year, genre) values ('In God''s Hands', 'John Smith', 1993, 'Action|Drama');
+insert into books (title, author, published_year, genre) values ('Flight Command', 'Sarah Davis', 2010, 'Drama|War');
+insert into books (title, author, published_year, genre) values ('Wackness, The', 'Emily Brown', 2009, 'Comedy|Drama|Romance');
+insert into books (title, author, published_year, genre) values ('Wild Geese, The', 'Emily Brown', 2007, 'Action|Adventure|Drama|War');
+insert into books (title, author, published_year, genre) values ('Lawless Range', 'David Wilson', 1998, 'Western');
+insert into books (title, author, published_year, genre) values ('Knute Rockne All American', 'Michael Johnson', 1998, 'Drama');
+insert into books (title, author, published_year, genre) values ('The Great Kidnapping', 'Emily Brown', 1998, 'Action|Crime|Thriller');
+insert into books (title, author, published_year, genre) values ('Julie & Julia', 'Emily Brown', 2010, 'Comedy|Drama|Romance');
+insert into books (title, author, published_year, genre) values ('Girls About Town', 'David Wilson', 2011, 'Comedy');
+insert into books (title, author, published_year, genre) values ('I Shot Jesse James', 'David Wilson', 2009, 'Drama|Romance|Western');
